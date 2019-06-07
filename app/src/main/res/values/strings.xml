@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Personal Banking</string>
+    <string name="interest_ans">The Interest Rates on term deposit of the bank is subject to change from
+        time to time and the same is provided on the website of the Bank and also available at every branch</string>
+    <string name="minimum_and_maximum_ans">The minimum and maximum tenor for general/Senior citizen is 15 days and 20 years, respectively.</string>
+
+    <string name="security_ans">The security for the loan is a first mortgage of the property
+        proposed to be financed with the proceeds of  Home Loans by way of equitable mortgage by
+        deposit of title deeds with memorandum of entry. The Bank will also decide the requirement of
+        additional security if required for the process of loan application.</string>
+    <string name="maximum_home_loan_ans">Home Loans are available maximum up to  10 Cr.</string>
+    <string name="loan_eligibility_ans">We will assess your loan eligibility based on your age, qualification,
+        income, number of dependents, spouse income, stability and continuity of your occupation,
+        assets, liability base and your savings history and based on the value of the property proposed to be purchased.</string>
+    
+    <string name="services_ans">Balance Enquiry
+ Statement Request
+ Mini statements
+ Cheque-book Request
+ Cheque and Cash Deposits
+ International usage
+ Fabulous discounts and great deals at various establishments</string>
+    <string name="rate_of_interest_ans">Interest @ 4% pa is applicable on the Super Savings Account.</string>
+    <string name="minimum_balance_ans">You need to maintain an Monthly Average Balance (MAB) of Rs. 5000 in the Super Savings Account for Metro and Urban Branches, Rs. 2500/- for semi urban Branches and Rs. 500/- for Rural Branches.
+</string>
+
+
+
+
+
+
+    <string name="blanck"></string>
+    <string name="minimum_and_maximum">What is the minimum and maximum tenor for which Retail Term Deposit can be kept with Bank?</string>
+    <string name="interest">What is the interest rate applicable for Term Deposits?</string>
+
+    <string name="security">What security will I have to provide?</string>
+    <string name="maximum_home_loan">What is the maximum Home Loan Amount I can get?</string>
+    <string name="loan_eligibility">How will Bank decide my Home Loan Eligibility?</string>
+
+    <string name="services">What are the services that are available ?</string>
+    <string name="rate_of_interest">What is the rate of interest applicable on the Super Savings Account?</string>
+    <string name="minimum_balance">What is the minimum balance that I need to maintain in the Super Savings Account? </string>
+</resources>
